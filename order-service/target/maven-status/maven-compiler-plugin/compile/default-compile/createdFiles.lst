@@ -1,0 +1,7 @@
+OrderServiceApplication.class
+client/ProductClient.class
+service/OrderService.class
+entity/Product.class
+repository/OrderRepository.class
+controller/OrderController.class
+entity/Order.class
